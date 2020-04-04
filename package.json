@@ -17,6 +17,7 @@
     "gender-api-client": "^1.1.2",
     "gender-api.com-client": "^1.0.14",
     "mongoose": "^5.9.1",
-    "react-router-dom": "^5.1.2"
+    "react-router-dom": "^5.1.2",
+    "readme-md-generator": "^1.0.0"
   }
 }
